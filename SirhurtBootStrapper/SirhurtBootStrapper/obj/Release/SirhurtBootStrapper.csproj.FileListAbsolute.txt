@@ -1,0 +1,13 @@
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\bin\Release\SirhurtBootStrapper.exe.config
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\bin\Release\SirhurtBootStrapper.exe
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\bin\Release\SirhurtBootStrapper.pdb
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\bin\Release\Bunifu_UI_v1.5.3.xml
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.csprojAssemblyReference.cache
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.Main.resources
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.Properties.Resources.resources
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.csproj.GenerateResource.cache
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.csproj.CoreCompileInputs.cache
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.csproj.Fody.CopyLocal.cache
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.csproj.CopyComplete
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.exe
+E:\Sources\C#\_Sirhurt Stuff\SirhurtBootStrapper\SirhurtBootStrapper\obj\Release\SirhurtBootStrapper.pdb

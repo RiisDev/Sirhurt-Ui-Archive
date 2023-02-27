@@ -1,0 +1,14 @@
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\bin\Debug\OldAsshurtRemake.exe.config
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\bin\Debug\OldAsshurtRemake.exe
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\bin\Debug\OldAsshurtRemake.pdb
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\bin\Debug\ScintillaNET.xml
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.csprojAssemblyReference.cache
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.Main.resources
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.Properties.Resources.resources
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.csproj.GenerateResource.cache
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.csproj.CoreCompileInputs.cache
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.csproj.Fody.CopyLocal.cache
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.csproj.CopyComplete
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.exe
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\obj\Debug\OldAsshurtRemake.pdb
+E:\Sources\C#\_Sirhurt Stuff\OldAsshurtRemake\OldAsshurtRemake\bin\Debug\Newtonsoft.Json.xml

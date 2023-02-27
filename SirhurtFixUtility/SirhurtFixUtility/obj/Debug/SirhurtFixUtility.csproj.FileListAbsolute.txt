@@ -1,0 +1,7 @@
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\bin\Debug\SirhurtFixUtility.exe.config
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\bin\Debug\SirhurtFixUtility.exe
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\bin\Debug\SirhurtFixUtility.pdb
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\obj\Debug\SirhurtFixUtility.csprojAssemblyReference.cache
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\obj\Debug\SirhurtFixUtility.csproj.CoreCompileInputs.cache
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\obj\Debug\SirhurtFixUtility.exe
+F:\Sources\C#\_Sirhurt Stuff\SirhurtFixUtility\SirhurtFixUtility\obj\Debug\SirhurtFixUtility.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.Controls.TabControlX.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.Form1.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.Properties.Resources.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.About.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.ScriptHub.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.exe
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.pdb
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\bin\Release\SirhurtUI.exe.config
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\bin\Release\SirhurtUI.exe
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\bin\Release\SirhurtUI.pdb
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.csproj.Fody.CopyLocal.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V2 New UI Redesign Iris\SirhurtUI\obj\Release\SirhurtUI.csproj.CopyComplete

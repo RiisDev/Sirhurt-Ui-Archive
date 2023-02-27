@@ -1,0 +1,52 @@
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csprojAssemblyReference.cache
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.ScriptHubForm.resources
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.Main.resources
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.Properties.Resources.resources
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.GenerateResource.cache
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Newtonsoft.Json.xml
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\ScintillaNET.xml
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\ScintillaNET_FindReplaceDialog.xml
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.Fody.CopyLocal.cache
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.CopyComplete
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.LanguageForm.resources
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.CreditsForm.resources
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.exe.config
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.exe
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.pdb
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\Sirhurt V4.exe
+F:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\Sirhurt V4.pdb
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.exe.config
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.exe
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.pdb
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\Newtonsoft.Json.xml
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\ScintillaNET.xml
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\bin\Debug\ScintillaNET_FindReplaceDialog.xml
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csprojAssemblyReference.cache
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.CreditsForm.resources
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.LanguageForm.resources
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.ScriptHubForm.resources
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.Main.resources
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.Properties.Resources.resources
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.GenerateResource.cache
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.Fody.CopyLocal.cache
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.CopyComplete
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\Sirhurt V4.exe
+E:\Sources\C#\_UI ReCreates\SirhurtNewUI\SirhurtNewUI\obj\Debug\Sirhurt V4.pdb
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csprojAssemblyReference.cache
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.CreditsForm.resources
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.LanguageForm.resources
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.ExtraForms.ScriptHubForm.resources
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.Main.resources
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.Properties.Resources.resources
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.GenerateResource.cache
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.CoreCompileInputs.cache
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\Sirhurt V4.exe
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\Sirhurt V4.pdb
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.exe.config
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.exe
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\bin\Debug\Sirhurt V4.pdb
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\bin\Debug\Newtonsoft.Json.xml
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\bin\Debug\ScintillaNET.xml
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\bin\Debug\ScintillaNET_FindReplaceDialog.xml
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.Fody.CopyLocal.cache
+F:\Sources\C#\_Sirhurt Stuff\SirhurtNewUI\SirhurtNewUI\obj\Debug\SirhurtNewUI.csproj.CopyComplete

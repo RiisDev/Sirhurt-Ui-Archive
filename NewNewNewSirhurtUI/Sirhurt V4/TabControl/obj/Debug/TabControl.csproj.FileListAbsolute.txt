@@ -1,0 +1,17 @@
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\bin\Debug\TabControl.dll
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\bin\Debug\TabControl.pdb
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\UserControl1.g.cs
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl_MarkupCompile.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl_MarkupCompile.lref
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\UserControl1.baml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.g.resources
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.Properties.Resources.resources
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.csproj.GenerateResource.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.csproj.CoreCompileInputs.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.dll
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.pdb
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\bin\Debug\Dragablz.dll
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\bin\Debug\Dragablz.pdb
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\bin\Debug\Dragablz.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.csprojAssemblyReference.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\TabControl\obj\Debug\TabControl.csproj.CopyComplete

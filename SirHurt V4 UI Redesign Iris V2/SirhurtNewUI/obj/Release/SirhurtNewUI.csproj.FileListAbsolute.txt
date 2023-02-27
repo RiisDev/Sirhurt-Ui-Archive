@@ -1,0 +1,35 @@
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Sirhurt V4.exe.config
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Sirhurt V4.exe
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Sirhurt V4.pdb
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\ScintillaNET.xml
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\ScintillaNET_FindReplaceDialog.xml
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.ExtraForms.CreditsForm.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.ExtraForms.LanguageForm.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.ExtraForms.ScriptHubForm.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.Main.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.Properties.Resources.resources
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.Fody.CopyLocal.cache
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.CopyComplete
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\Sirhurt V4.exe
+C:\Users\Kevin\Desktop\File\Sources\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\Sirhurt V4.pdb
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csprojAssemblyReference.cache
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.ExtraForms.CreditsForm.resources
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.ExtraForms.LanguageForm.resources
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.ExtraForms.ScriptHubForm.resources
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.Main.resources
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.Properties.Resources.resources
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.GenerateResource.cache
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.CoreCompileInputs.cache
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\Sirhurt V4.exe
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\Sirhurt V4.pdb
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Sirhurt V4.exe.config
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Sirhurt V4.exe
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Sirhurt V4.pdb
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\Newtonsoft.Json.xml
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\bin\Release\ScintillaNET.xml
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.Fody.CopyLocal.cache
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\SirhurtNewUI.csproj.CopyComplete
+E:\Sources\C#\_Sirhurt Stuff\SirHurt V4 UI Redesign Iris V2\SirhurtNewUI\obj\Release\IrisFramework.IrisScriptTabs.resources

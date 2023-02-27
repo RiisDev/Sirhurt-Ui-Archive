@@ -1,0 +1,13 @@
+Fichier =
+'Fichier ouvert' = Ouvrir fichier
+'Save' = Sauvegarder
+'Sortie' = Sortir (or just 'Fermer' since we're closing Sirhurt)
+ 
+Vue = (should be renamed to 'Voir' btw)
+Editor Controls = Contrôle Editeur
+ 
+Extensions =
+Top Plus = Toujours visible (always visible in English)
+FPS Unlocker = Débloquer FPS
+Enregistrer les onglets a la sortie = Enregistrer les onglets à la fermeture
+Tuez ROBLOX = Fermer ROBLOX (or just 'Tuer roblox')

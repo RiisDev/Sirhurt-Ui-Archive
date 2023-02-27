@@ -1,0 +1,57 @@
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4ReCreate.exe.config
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4ReCreate.exe
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4ReCreate.pdb
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Properties.Resources.resources
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Sirhurt.resources
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.exe
+C:\Users\phoen\source\repos\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.pdb
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4.exe.config
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4.exe
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4.pdb
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\ScintillaNET FindReplaceDialog.xml
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\ScintillaNET.xml
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csprojAssemblyReference.cache
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Properties.Resources.resources
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Sirhurt.resources
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.GenerateResource.cache
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.CopyComplete
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4.exe
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4.pdb
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Controls.TabControlX.resources
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.Fody.CopyLocal.cache
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Controls.TabPanelControl.resources
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\Newtonsoft.Json.xml
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Credits.resources
+F:\Sources\C#\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.ScriptHub.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csprojAssemblyReference.cache
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Controls.TabControlX.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Controls.TabPanelControl.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Credits.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Language.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Properties.Resources.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.ScriptHub.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Sirhurt.resources
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.GenerateResource.cache
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4.exe
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4.pdb
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4.exe.config
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4.exe
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\SirhurtV4.pdb
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\Newtonsoft.Json.xml
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\ScintillaNET FindReplaceDialog.xml
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\bin\Debug\ScintillaNET.xml
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.Fody.CopyLocal.cache
+F:\Sources\C#\_UI ReCreates\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.CopyComplete
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.AssemblyReference.cache
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Controls.TabControlX.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Controls.TabPanelControl.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Credits.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Language.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Properties.Resources.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.ScriptHub.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.Sirhurt.resources
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.GenerateResource.cache
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4ReCreate.csproj.CoreCompileInputs.cache
+E:\Sources\C#\_Sirhurt Stuff\Sirhurt V4\SirhurtV4ReCreate\obj\Debug\SirhurtV4.pdb

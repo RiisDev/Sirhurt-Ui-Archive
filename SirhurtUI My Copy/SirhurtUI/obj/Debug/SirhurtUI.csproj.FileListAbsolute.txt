@@ -1,0 +1,34 @@
+E:\Sources\SirhurtUI\SirhurtUI\bin\Debug\SirhurtUI.exe.config
+E:\Sources\SirhurtUI\SirhurtUI\bin\Debug\SirhurtUI.exe
+E:\Sources\SirhurtUI\SirhurtUI\bin\Debug\SirhurtUI.pdb
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.csprojAssemblyReference.cache
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.Form1.resources
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.Properties.Resources.resources
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.csproj.GenerateResource.cache
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.csproj.CoreCompileInputs.cache
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.csproj.Fody.CopyLocal.cache
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.exe
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.pdb
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.Controls.TabControlX.resources
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.csproj.CopyComplete
+E:\Sources\SirhurtUI\SirhurtUI\bin\Debug\ScintillaNET.xml
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.ScriptHub.resources
+E:\Sources\SirhurtUI\SirhurtUI\bin\Debug\Newtonsoft.Json.xml
+E:\Sources\SirhurtUI\SirhurtUI\obj\Debug\SirhurtUI.About.resources
+E:\Sources\SirhurtUI My Copy\SirhurtUI\bin\Debug\SirhurtUI.exe.config
+E:\Sources\SirhurtUI My Copy\SirhurtUI\bin\Debug\SirhurtUI.exe
+E:\Sources\SirhurtUI My Copy\SirhurtUI\bin\Debug\SirhurtUI.pdb
+E:\Sources\SirhurtUI My Copy\SirhurtUI\bin\Debug\Newtonsoft.Json.xml
+E:\Sources\SirhurtUI My Copy\SirhurtUI\bin\Debug\ScintillaNET.xml
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.csprojAssemblyReference.cache
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.Controls.TabControlX.resources
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.Form1.resources
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.Properties.Resources.resources
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.About.resources
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.ScriptHub.resources
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.csproj.GenerateResource.cache
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.csproj.CoreCompileInputs.cache
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.csproj.Fody.CopyLocal.cache
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.csproj.CopyComplete
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.exe
+E:\Sources\SirhurtUI My Copy\SirhurtUI\obj\Debug\SirhurtUI.pdb

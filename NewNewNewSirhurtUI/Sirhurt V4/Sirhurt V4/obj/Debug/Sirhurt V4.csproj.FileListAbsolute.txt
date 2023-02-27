@@ -1,0 +1,21 @@
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Sirhurt V4.exe.config
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Sirhurt V4.exe
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Sirhurt V4.pdb
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt_V4.Properties.Resources.resources
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.csproj.GenerateResource.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.csproj.CoreCompileInputs.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.exe
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.pdb
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.csproj.CopyComplete
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\ScintillaNET.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.csproj.Fody.CopyLocal.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt_V4.Main.resources
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.exe.config
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.exe.licenses
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Newtonsoft.Json.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\obj\Debug\Sirhurt V4.csprojAssemblyReference.cache
+E:\Sources\C#\_Sirhurt Stuff\NewNewNewSirhurtUI\Sirhurt V4\Sirhurt V4\bin\Debug\ScintillaNET_FindReplaceDialog.xml
